@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "490892765595",
+    "firebase_url": "https://fahwud-325dc.firebaseio.com",
+    "project_id": "fahwud-325dc",
+    "storage_bucket": "fahwud-325dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490892765595:android:dd7ad0171dc0aa71aed93e",
+        "android_client_info": {
+          "package_name": "ruthann.fawhud_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490892765595-okohoqcjgi2if1taoln6o2aoifvehb84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm2riXXS0Ltx53eI8fNLUPKUin26jM-yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490892765595-okohoqcjgi2if1taoln6o2aoifvehb84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
